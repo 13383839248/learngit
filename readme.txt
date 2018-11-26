@@ -6,3 +6,5 @@ Git is free software distributed under the GPL.
 
 git是11月26日 学习的第二项内容
 第一项内容是 less
+
+git仓库有一个暂存区
